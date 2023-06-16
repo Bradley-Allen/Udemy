@@ -1,7 +1,11 @@
-// Section 6
-// Challenge
+/**
+ * Section 6 Challenge Project
+ * @author Bradley Allen
+ * Practices the use of outputting to the console, concatenating, and built-in mathematical functions.
+ * Instructions for the project are included below as well.
+ */
 
-/* 
+/**
     Frank's Carpet Cleaning Service
     Charges:
         $25 per small room
