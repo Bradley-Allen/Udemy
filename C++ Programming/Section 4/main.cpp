@@ -1,3 +1,9 @@
+/**
+ * Section 4 Challenge Project
+ * @author Bradley Allen
+ * Practices taking input and printing output.
+ */
+
 #include <iostream>
 
 int main() {
