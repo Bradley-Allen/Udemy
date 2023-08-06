@@ -19998,4 +19998,4 @@ React/node_modules/es-abstract/2022/BigInt/signedRightShift.js
 React/node_modules/es-abstract/2022/BigInt/subtract.js
 React/node_modules/es-abstract/2022/BigInt/toString.js
 React/node_modules/es-abstract/2022/BigInt/unaryMinus.js
-React/node_modules/es-abstract/2022/BigInt/uns
+React/node_modules/es-abstract/2022/BigInt/unsignedRightShift.js
