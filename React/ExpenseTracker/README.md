@@ -22,6 +22,12 @@ Start the server
   npm start
 ```
 
+Navigate to
+
+```bash
+  http://localhost:3000/
+```
+
 ## Roadmap
 
 - Add database to store expenses for users
