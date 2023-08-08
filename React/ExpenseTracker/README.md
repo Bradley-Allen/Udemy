@@ -7,7 +7,7 @@ Add expenses to track and visualize monthly spending.
 Clone the project, then go to the project directory
 
 ```bash
-  cd my-project
+  cd ExpenseTracker
 ```
 
 Install dependencies
