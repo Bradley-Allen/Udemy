@@ -2,6 +2,10 @@
 
 Add expenses to track and visualize monthly spending.
 
+## View Demo
+
+This project is currently hosted. It can be found [here](https://allen-expense-tracker.web.app/).
+
 ## Run Locally
 
 Clone the project, then go to the project directory
