@@ -4,7 +4,7 @@ Calculate investment based on current savings, yearly investment, interest, and 
 
 ## View Demo
 
-This project is not currently hosted. TODO
+This project is currently hosted. It can be found [here](https://allen-investment-calculator.web.app/).
 
 ## Run Locally
 
