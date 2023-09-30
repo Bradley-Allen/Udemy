@@ -1,0 +1,12 @@
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.deps.json
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.dll
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\bin\Debug\net8.0\Ecom.Utility.pdb
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.AssemblyInfoInputs.cache
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.AssemblyInfo.cs
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.csproj.CoreCompileInputs.cache
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.sourcelink.json
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.dll
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\refint\Ecom.Utility.dll
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\Ecom.Utility.pdb
+C:\Users\btall\OneDrive\Desktop\UdemyRepository\Udemy\.NET MVC\ECommerceApp\Ecom.Utility\obj\Debug\net8.0\ref\Ecom.Utility.dll
