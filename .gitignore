@@ -3,3 +3,5 @@ node_modules
 bin/Debug
 /.NET MVC/ECommerceApp/.vs/
 /.NET MVC/ECommerceApp/ECommerceApp/bin/
+/.NET MVC/ECommerceApp/Ecom.Models/obj/Debug/net8.0/Ecom.Models.AssemblyInfo.cs
+/.NET MVC/ECommerceApp/Ecom.Models/obj/Debug/net8.0/Ecom.Models.AssemblyInfoInputs.cache
