@@ -63,3 +63,4 @@ bin/Debug
 /.NET MVC/ECommerceApp/Ecom.Models/obj/project.assets.json
 /.NET MVC/ECommerceApp/Ecom.Models/obj/project.nuget.cache
 /.NET MVC/ECommerceApp/Ecom.Models/obj/Debug/net8.0/ref/Ecom.Models.dll
+/.NET MVC/ECommerceApp/ECommerceApp/appsettings.json
