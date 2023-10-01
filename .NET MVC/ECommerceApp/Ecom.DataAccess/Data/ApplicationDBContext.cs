@@ -1,9 +1,11 @@
 ﻿using Ecom.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ecom.DataAccess.Data
 {
-    public class ApplicationDBContext : DbContext
+    public class ApplicationDBContext : IdentityDbContext<IdentityUser>
     {
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options)
         {
@@ -12,9 +14,13 @@ namespace Ecom.DataAccess.Data
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = 1, Name = "Action", DisplayOrder = 1 },
                 new Category { Id = 2, Name = "SciFi", DisplayOrder = 2 },
@@ -32,7 +38,9 @@ namespace Ecom.DataAccess.Data
                    ListPrice = 99,
                    Price = 90,
                    Price50 = 85,
-                   Price100 = 80
+                   Price100 = 80,
+                   CategoryId = 1,
+                   ImageURL = ""
                },
                 new Product
                 {
@@ -44,7 +52,9 @@ namespace Ecom.DataAccess.Data
                     ListPrice = 40,
                     Price = 30,
                     Price50 = 25,
-                    Price100 = 20
+                    Price100 = 20,
+                    CategoryId = 1,
+                    ImageURL = ""
                 },
                 new Product
                 {
@@ -56,7 +66,9 @@ namespace Ecom.DataAccess.Data
                     ListPrice = 55,
                     Price = 50,
                     Price50 = 40,
-                    Price100 = 35
+                    Price100 = 35,
+                    CategoryId = 3,
+                    ImageURL = ""
                 },
                 new Product
                 {
@@ -68,7 +80,9 @@ namespace Ecom.DataAccess.Data
                     ListPrice = 70,
                     Price = 65,
                     Price50 = 60,
-                    Price100 = 55
+                    Price100 = 55,
+                    CategoryId = 2,
+                    ImageURL = ""
                 },
                 new Product
                 {
@@ -80,7 +94,9 @@ namespace Ecom.DataAccess.Data
                     ListPrice = 30,
                     Price = 27,
                     Price50 = 25,
-                    Price100 = 20
+                    Price100 = 20,
+                    CategoryId = 3,
+                    ImageURL = ""
                 },
                 new Product
                 {
@@ -92,7 +108,9 @@ namespace Ecom.DataAccess.Data
                     ListPrice = 25,
                     Price = 23,
                     Price50 = 22,
-                    Price100 = 20
+                    Price100 = 20,
+                    CategoryId = 2,
+                    ImageURL = ""
                 }
                );
         }
