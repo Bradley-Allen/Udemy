@@ -87,3 +87,8 @@ bin/Debug
 /.NET MVC/ECommerceApp/Ecom.Utility/obj/project.nuget.cache
 /.NET MVC/ECommerceApp/Backup/ECommerceApp.sln
 /.NET MVC/ECommerceApp/UpgradeLog.htm
+/.NET MVC/ECommerceApp/Ecom.DataAccess/bin/Debug/net8.0/Ecom.DataAccess.runtimeconfig.json
+/.NET MVC/ECommerceApp/Ecom.DataAccess/bin/Debug/net8.0/Ecom.Utility.dll
+/.NET MVC/ECommerceApp/Ecom.DataAccess/bin/Debug/net8.0/Ecom.Utility.pdb
+/.NET MVC/ECommerceApp/Ecom.DataAccess/obj/Debug/net8.0/Ecom.DataAccess.csproj.FileListAbsolute.txt
+/.NET MVC/ECommerceApp/Ecom.DataAccess/obj/Ecom.DataAccess.csproj.nuget.g.targets
